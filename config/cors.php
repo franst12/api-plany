@@ -22,6 +22,7 @@ return [
     'allowed_origins' => [
         'http://localhost:3000',
         'http://127.0.0.1:3000',
+        'https://planly-academic-website.vercel.app/',
         'https://planly-academic-website-bqe6ukcoy-arfwjns-projects-b04944cd.vercel.app',
     ],
 
